@@ -32,10 +32,10 @@ const tweets = [
     url: "https://x.com/StockMKTNewz/status/1998395631849586755?s=20"
   },
   {
-    handle: "@unusual_whales",
-    text: "BREAKING: NVDA breaks above $180 resistance. Heavy call volume.",
+    handle: "@zerohedge",
+    text: "*JPMORGAN SHARES TURN NEGATIVE AS MGMT SPEAKS AT GOLDMAN CONF",
     timestamp: "2025-12-08T13:45:00",
-    url: "https://x.com/unusual_whales/status/1865510234567890123"
+    url: "https://x.com/zerohedge/status/1998447056310911029?s=46"
   },
   {
     handle: "@Fxhedgers",
