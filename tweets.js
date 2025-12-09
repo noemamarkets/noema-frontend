@@ -26,8 +26,14 @@
 
 const tweets = [
   {
-    handle: "@StockMKTNewz",
-    text: "Citi today raised its price target on Apple $AAPL up to $330 from $315 while maintaining its Buy rating",
+    handle: "@DefiWimar",
+    text: "🚨 BREAKING
+
+THE NEXT FED CHAIR HASSETT JUST CONFIRMED HE WOULD SUPPORT A 50 BPS RATE CUT TOMORROW.
+
+LOOKS LIKE THE FUTURE FED CHAIR WILL MOVE FASTER THAN POWELL.
+
+GIGA BULLISH FOR MARKETS!",
     timestamp: "2025-12-09T8:13:00",
     url: "https://x.com/StockMKTNewz/status/1998395631849586755?s=20"
   },
@@ -35,7 +41,7 @@ const tweets = [
     handle: "@zerohedge",
     text: "*JPMORGAN SHARES TURN NEGATIVE AS MGMT SPEAKS AT GOLDMAN CONF",
     timestamp: "2025-12-08T13:45:00",
-    url: "https://x.com/zerohedge/status/1998447056310911029?s=46"
+    url: "https://x.com/defiwimar/status/1998402634768617922?s=46s=46"
   },
   {
     handle: "@StockSavvyShay",
