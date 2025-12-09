@@ -38,10 +38,10 @@ const tweets = [
     url: "https://x.com/zerohedge/status/1998447056310911029?s=46"
   },
   {
-    handle: "@Fxhedgers",
-    text: "FED OFFICIAL: Rate cuts to proceed cautiously amid inflation concerns.",
+    handle: "@StockSavvyShay",
+    text: "SPACEX CONSIDERING 2026 IPO AT $1.5T VALUATION",
     timestamp: "2025-12-08T13:15:00",
-    url: "https://x.com/Fxhedgers/status/1865502456789012345"
+    url: "https://x.com/stocksavvyshay/status/1998493056669245815?s=46"
   },
   {
     handle: "@DeItaone",
