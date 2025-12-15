@@ -25,10 +25,10 @@ const tweets = [
     featured: true  // Slot #1 - 8:30 AM - FEATURED
   },
   {
-    handle: "@Fxhedgers",
-    text: "FED OFFICIAL: Rate cuts to proceed cautiously amid persistent inflation concerns. Markets digest hawkish commentary.",
+    handle: "@faststocknewss",
+    text: "Fed’s Williams Says Policy Is Well Positioned, Focused On Balancing Job And Inflation Risks; Sees Inflation Returning To 2% By 2027, Unemployment At 4.5% By End-2025",
     timestamp: "2025-12-14T13:45:00",
-    url: "https://x.com/Fxhedgers/status/1865510234567890123",
+    url: "https://x.com/faststocknewss/status/2000589429237285276?s=46",
     featured: false  // Slot #2
   },
   {
