@@ -18,10 +18,10 @@
 
 const tweets = [
   {
-    handle: "@unusual_whales",
-    text: "BREAKING: NVDA breaks above $180 resistance. Heavy call volume detected with institutional buying accelerating into close.",
+    handle: "@RKLBMan",
+    text: "$RKLB getting a lot of exposure lately.  Also on CNBC on Friday.This will pick up into next summer's potential SpaceX IPO. Finance podcasts next",
     timestamp: "2025-12-14T14:30:00",
-    url: "https://x.com/unusual_whales/status/1865517692858212609",
+    url: "https://x.com/rklbman/status/2000395701856117056?s=46",
     featured: true  // Slot #1 - 8:30 AM - FEATURED
   },
   {
