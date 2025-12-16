@@ -18,31 +18,31 @@
 
 const tweets = [
   {
-    handle: "@RKLBMan",
-    text: "$RKLB getting a lot of exposure lately.  Also on CNBC on Friday.This will pick up into next summer's potential SpaceX IPO. Finance podcasts next",
+    handle: "@wallstengine",
+    text: "$HASSETT: WE HAVE THE BEST CHIPS, PLAN TO DEREGULATE",
     timestamp: "2025-12-14T14:30:00",
-    url: "https://x.com/rklbman/status/2000395701856117056?s=46",
+    url: "https://x.com/wallstengine/status/2000935779678478686?s=46s=46",
     featured: true  // Slot #1 - 8:30 AM - FEATURED
   },
   {
-    handle: "@faststocknewss",
-    text: "Fed’s Williams Says Policy Is Well Positioned, Focused On Balancing Job And Inflation Risks; Sees Inflation Returning To 2% By 2027, Unemployment At 4.5% By End-2025",
+    handle: "@unusual_whales",
+    text: "The US is preparing to seize more sanctioned oil-filled tankers off Venezuela, per Axios",
     timestamp: "2025-12-14T13:45:00",
-    url: "https://x.com/faststocknewss/status/2000589429237285276?s=46",
+    url: "https://x.com/unusual_whales/status/2000933179973361935?s=46s=46",
     featured: false  // Slot #2
   },
   {
-    handle: "@WSJ",
-    text: "Bitcoin surges past $100K as institutional buying accelerates. ETF inflows reach new all-time highs.",
+    handle: "@bespokeinvest",
+    text: "Equities initially bounced and the 10-year yield dropped following the 8:30 data, but that has since reversed with equities now lower and the 10-year yield higher",
     timestamp: "2025-12-14T13:15:00",
-    url: "https://x.com/WSJ/status/1865502456789012345",
+    url: "https://x.com/bespokeinvest/status/2000925367201345761?s=46",
     featured: false  // Slot #3
   },
   {
-    handle: "@DeItaone",
-    text: "APPLE: Supply chain sources indicate strong iPhone 16 demand in China. Production ramping up for holiday quarter.",
+    handle: "@StockMKTNewz",
+    text: "DATABRICKS IS RAISING MORE THAN $4 BILLION IN FUNDS AT $134 BILLION VALUATION - WSJ.",
     timestamp: "2025-12-14T12:50:00",
-    url: "https://x.com/DeItaone/status/1865495678901234567",
+    url: "https://x.com/stockmktnewz/status/2000925584172654721?s=46",
     featured: false  // Slot #4
   },
   {
